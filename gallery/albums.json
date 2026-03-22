@@ -1,5 +1,10 @@
 [
   {
+    "slug": "chaemiloch-turnier-2026",
+    "title": "Chämiloch Turnier 2026",
+    "cover": "cover.jpg"
+  },
+  {
     "slug": "bauer-cup-2026",
     "title": "Bauer Cup 2026",
     "cover": "b6c9e2e4-fddc-4bd2-87a8-6ed1bcd302ba.JPG"
@@ -8,10 +13,5 @@
     "slug": "team-bus",
     "title": "Team Bus 2026",
     "cover": "team-bus.png"
-  },
-  {
-    "slug": "chaemiloch-turnier-2026",
-    "title": "Chämiloch Turnier 2026",
-    "cover": "cover.jpeg"
   }
 ]
