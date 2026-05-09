@@ -189,6 +189,33 @@
       "match_report_generated_at": "",
       "match_report_text": "",
       "notes": ""
+    },
+    {
+      "id": "89e079c0-3476-4a73-b4f7-a1d9f603d777",
+      "title": "Average Avalanche vs Hurensohn Tigers",
+      "event_name": "",
+      "date": "2026-04-19",
+      "time": "12:00",
+      "type": "Friendly Match",
+      "home": "Average Avalanche",
+      "away": "Hurensohn Tigers",
+      "rink": "Swiss Life Arena, Zürich",
+      "tournament_result": "",
+      "home_score": 2,
+      "away_score": 3,
+      "game_result": "OTL",
+      "overtime": true,
+      "shootout": false,
+      "points": "",
+      "format": "",
+      "rink_size": "",
+      "game_duration": "",
+      "online": true,
+      "played": false,
+      "match_report_pdf": "",
+      "match_report_generated_at": "",
+      "match_report_text": "",
+      "notes": ""
     }
   ]
 }
